@@ -6,7 +6,8 @@ ______
    * It took us a while, but we noticed that our WiFi and home network was significantly slowed down. Normally it would take less a minute to  download a 1 gb file with our current plan, but it was now taking up to 15 - 20 minutes to download the same file. 
    * From AWS Lambda, the web service that powers Alexa skills, I understood how difficult it was to set up a system that doesn't have to constantly send queries and hoping for an input. This was just a theory and I had to find a way to quantify the hypothesis.
    * After some research and my current Raspberry Pi infrastructure, I decided to docker pull Pi - Hole to gather the data.
-    * First, I downloaded an IP scanner (angry IP scanner is wonderful) and utilized SSH to configure the admin account for Pi-Hole and be able to access the dashboard. Then, we had to route our router DNS to go through the Raspberry Pi and we were done. This quick installation was only possible due to the insane amount of time I spent trying to configure Kubernetes and Docker, which is another post on its own. 
+    * First, I downloaded an IP scanner (angry IP scanner is wonderful) and utilized SSH to configure the admin account for Pi-Hole and be able to access the dashboard.
+    * Then, we had to route our router DNS to go through the Raspberry Pi and we were done. This quick installation was only possible due to the insane amount of time I spent trying to configure Kubernetes and Docker, which is another post on its own. 
       * insert picture here and dashboard stuff
 
         * Note: This is a reverse DNS, as told by the .arpa and literally our DNS backwards. It's communicating to every device connected to our router. From my IT risk analyst position, I was kind of wary about this dvice.
