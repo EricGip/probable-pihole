@@ -25,6 +25,6 @@ After seeing this information on our top queries, it seems like the smart outlet
 
 I am proud of this project because I was able to use my various interests and background to solve a real world problem:
    * AWS certificate that exposed me to IoT & webservices to hypothesize that the smart outlet should be investigated.  
-   * Statistics and Data Science to understand to gather quantifiable data.  
+   * Statistics/Data Science and my love for dashboards/visualizations to understand to gather quantifiable data.  
    * Practice DevOps by my RPi kubernetes - docker cluster I spent a long time setting up, the infrastructure allowed for a really simple installation.  
    * Used security experience gained from my IT Risk Anaylst position and frameworks that exposed me to various vulnerabilities & attacks, mainly Cloud and IoT vulnerabiities. 
