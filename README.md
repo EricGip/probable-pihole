@@ -1,5 +1,7 @@
 Introduction
 ______
+View everything here!
+https://imgur.com/a/GNxW0Si
 
    * My housemates and I come from different backgrounds and different interest/majors but the one thing we connect on is our Chinese heritage and our love for consumer technology. We all love the idea of the smart home and all have an amazon Echo or Google Home. 
    * One day, they both watched a LinusTechTips video and was inspired to get a smart outlet to further automate their rooms. 
